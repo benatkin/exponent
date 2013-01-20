@@ -1,0 +1,14 @@
+{
+  "name": "exponent",
+  "version": "0.0.0",
+  "description": "a web app for hackers",
+  "devDependencies": {
+    "component": "*"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependencies": {
+    "component": "*"
+  }
+}
